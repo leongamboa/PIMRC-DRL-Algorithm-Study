@@ -1,0 +1,1 @@
+print("hello bitches! you ready to learn?")
